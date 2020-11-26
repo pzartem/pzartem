@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [@GogoApps](https://github.com/FindHotel)
+- 🔭 I’m currently working at [@FindHotel](https://github.com/FindHotel)
 - 💬 Ask me about Go
 - 📫 How to reach me: [Telegram](https://t.me/pzartem)
 - ⚡ Fun fact: meme scientist.
