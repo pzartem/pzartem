@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at [@FindHotel](https://github.com/FindHotel)
 - 💬 Ask me about Go
 - 📫 How to reach me: [Telegram](https://t.me/pzartem)
-- ⚡ Fun fact: meme scientist.
+- ⚡ Fun fact: cat lover.
 
 [![Hits](http://hits.dwyl.com/pzartem/pzartem.svg)](http://hits.dwyl.com/pzartem) :eyes:
 
