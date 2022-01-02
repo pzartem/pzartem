@@ -7,6 +7,4 @@
 
 [![Hits](http://hits.dwyl.com/pzartem/pzartem.svg)](http://hits.dwyl.com/pzartem) :eyes:
 
-Fancy stats:
-
 <img src="https://github-readme-stats.vercel.app/api?username=pzartem&show_icons=true" alt="logo" height="160" />
