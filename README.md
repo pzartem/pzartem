@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at [@vio.com](https://github.com/vio.com)
-- 💬 Ask me about Go
+- 💬 Ask me about Go, CS, performance
 
 [![Hits](http://hits.dwyl.com/pzartem/pzartem.svg)](http://hits.dwyl.com/pzartem) 
 
